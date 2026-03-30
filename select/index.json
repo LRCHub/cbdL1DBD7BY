@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "THIS A MUST",
+  "base_artist": "Kanye West、Ye",
+  "createdAt": "2026-03-30T11:48:29.899461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/01_THIS_A_MUST_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West - Topic",
+      "has_synced": true,
+      "path": "select/02_THIS_A_MUST_Kanye_West_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "this a must",
+      "artist": "Kanye West, Ye",
+      "has_synced": true,
+      "path": "select/03_this_a_must_Kanye_West,_Ye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West; Ye",
+      "has_synced": true,
+      "path": "select/04_THIS_A_MUST_Kanye_West;_Ye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THIS A MUST (Paused)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/05_THIS_A_MUST_(Paused)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West, oraz, Ye",
+      "has_synced": true,
+      "path": "select/06_THIS_A_MUST_Kanye_West,_oraz,_Ye.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West, Ye  22 Ye",
+      "has_synced": true,
+      "path": "select/07_THIS_A_MUST_Kanye_West,_Ye_22_Ye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West, a, Ye",
+      "has_synced": true,
+      "path": "select/08_THIS_A_MUST_Kanye_West,_a,_Ye.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Kanye West, und, Ye",
+      "has_synced": true,
+      "path": "select/09_THIS_A_MUST_Kanye_West,_und,_Ye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "THIS A MUST",
+      "artist": "Ye",
+      "has_synced": true,
+      "path": "select/10_THIS_A_MUST_Ye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Must Be Love",
+      "artist": "Little Man Tate",
+      "has_synced": true,
+      "path": "select/11_This_Must_Be_Love_Little_Man_Tate.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Must Be Heaven",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/12_This_Must_Be_Heaven_Rick_Astley.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Must Be Magic",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/13_This_Must_Be_Magic_ABC.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Must Be The Place (Naive Melody)",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/14_This_Must_Be_The_Place_(Naive_Melody)_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Must Be It",
+      "artist": "Röyksopp",
+      "has_synced": false,
+      "path": "select/15_This_Must_Be_It_Röyksopp.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Must Be The Place (Naive Melody)",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz",
+      "has_synced": true,
+      "path": "select/16_This_Must_Be_The_Place_(Naive_Melody)_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This Must Be Love - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/17_This_Must_Be_Love_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "This Must Be Love",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/18_This_Must_Be_Love_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Poisenville Kids No Wins / Reprise (This Must Be Our Time)",
+      "artist": "EL-P & Cat Power",
+      "has_synced": true,
+      "path": "select/19_Poisenville_Kids_No_Wins___Reprise_(This_Must_Be_Our_Time)_EL-P_&_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Poisenville Kids No Wins-Reprise (This Must Be Our Time)",
+      "artist": "El-P",
+      "has_synced": true,
+      "path": "select/20_Poisenville_Kids_No_Wins-Reprise_(This_Must_Be_Our_Time)_El-P.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "This Must Be Bedlam",
+      "artist": "Piroshka",
+      "has_synced": false,
+      "path": "select/21_This_Must_Be_Bedlam_Piroshka.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "This Must Be the Place I Waited Years to Leave",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/22_This_Must_Be_the_Place_I_Waited_Years_to_Leave_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "This Must Be the Place I Waited Years to Leave",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/23_This_Must_Be_the_Place_I_Waited_Years_to_Leave_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "This Must Be My Dream",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/24_This_Must_Be_My_Dream_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "This Must Be Love",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/25_This_Must_Be_Love_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "This Must Be the Place (Naive Melody) (Live)",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/26_This_Must_Be_the_Place_(Naive_Melody)_(Live)_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "This Must Be the Place (Naive Melody)",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/27_This_Must_Be_the_Place_(Naive_Melody)_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "This Must Be the Place I Waited Years To Leave (2001 Remaster)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/28_This_Must_Be_the_Place_I_Waited_Years_To_Leave_(2001_Remaster)_Pet_Shop_Boys.lrc"
+    }
+  ]
+}
